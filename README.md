@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi there! I’m Madhur!<br>
-🎉 Welcome to my GitHub corner where creativity meets code and where bugs are just features in disguise! 🐛
-😄 I love diving into new technologies like Scrooge McDuck dives into his money vault! 💰
-🌱 Currently on an epic quest to conquer Machine Learning and Android development. 🧙‍♂️
-📫 Shoot me an email at: madhurpatil73@gmail.com
-⚡ Fun fact: Photography and Music for life. 🎶📸
+🎉 Welcome to my GitHub corner where creativity meets code and where bugs are just features in disguise! 🐛<br>
+😄 I love diving into new technologies like Scrooge McDuck dives into his money vault! 💰<br>
+🌱 Currently on an epic quest to conquer Machine Learning and Android development. 🧙‍♂️<br>
+📫 Shoot me an email at: madhurpatil73@gmail.com<br>
+⚡ Fun fact: Photography and Music for life. 🎶📸<br>
 
 
 ## 🌐 Socials:
