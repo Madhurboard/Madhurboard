@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Madhur!<br><br>
+👋 Hi there! I’m Madhur!<br>
 🎉 Welcome to my GitHub corner where creativity meets code and where bugs are just features in disguise! 🐛
 😄 I love diving into new technologies like Scrooge McDuck dives into his money vault! 💰
 🌱 Currently on an epic quest to conquer Machine Learning and Android development. 🧙‍♂️
