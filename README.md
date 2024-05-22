@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi there! I’m Madhur!<br><br>🎉 Welcome to my GitHub corner where creativity meets code!<br><br>😄 I love diving into new technologies and keeping up to date with the latest trends in the tech world.<br>🌱 I’m currently learning Machine Learning and Android development<br>📫 How to reach me: madhurpatil73@gmail.com<br>⚡ Fun fact: Photography and Music for life
+👋 Hi there! I’m Madhur!<br><br>
+🎉 Welcome to my GitHub corner where creativity meets code and where bugs are just features in disguise! 🐛
+😄 I love diving into new technologies like Scrooge McDuck dives into his money vault! 💰
+🌱 Currently on an epic quest to conquer Machine Learning and Android development. 🧙‍♂️
+📫 Shoot me an email at: madhurpatil73@gmail.com
+⚡ Fun fact: Photography and Music for life. 🎶📸
 
 
 ## 🌐 Socials:
